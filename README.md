@@ -1,6 +1,14 @@
 # BlockGame
 simple 2d sandbox game.
 
+REQUIRES:
+Python 3.10 or later
+Install by reading <a href='https://gist.github.com/rutcreate/c0041e842f858ceb455b748809763ddb'>this</a>
+Run the Block Game.sh file that comes with the app to install the required dependicies and run the game automatically
+
+How to load world:
+SImply run the python file with the world path as a argument, make sure the file is a .1wrld
+
 minimal specs:
 
 OS: Ubuntu 20.04/Linux mint 20.3 or later
