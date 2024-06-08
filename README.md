@@ -13,12 +13,12 @@ minimal specs:
 
 OS: Ubuntu 20.04/Linux mint 20.3 or later
 
-Ram: 2048 MB
+Ram: 3072 Mb Ram (3 GB Ram)
 
-Storage: 280 KiB HDD/SSD/M.2 SSD/FAT32/USB/CD
+Storage: 280 KiB HDD/SSD/M.2 SSD
 
-cpu: AMD/Intel single core/single thread
-
+cpu: AMD/Intel 2.45 GHz Dual core
+gpu: AMD Radeon 700 series/NVIDIA GeForce GTX 1080 DirectX 9 (intel gpu not supported)
 Controls:
 
 WASD: to move
